@@ -1,0 +1,64 @@
+body{
+    color: white;
+    background-color: black;
+    line-height: 1.6;
+    margin: 0;
+    padding: 2.0rem;
+    font-family: Arial, Helvetica, sans-serif;
+}
+#centralizer{
+    padding: 1.5em;
+    box-shadow: 0px 0px 1px #000;
+}
+h1{
+    display: inline;
+}
+h2{
+    margin-top: 1.5em;
+    font-size: 30px;
+}
+h3{
+    color:royalblue;
+    font-size: 38px;
+}
+a{
+    text-decoration: none;
+    color: aqua;
+}
+.Uni{
+    color: rgb(204, 221, 15);
+}
+.Luna{
+    color: salmon;
+}
+.Mango{
+    color: orangered;
+}
+.Balltze{
+    color: chocolate;
+}
+.Benson{
+    color:darkgoldenrod ;
+}
+.Floppa{
+    color:orange;
+}
+.Rebecca{
+    color: darkgray;
+}
+.Bart{
+    color: saddlebrown;
+}
+img{
+    width: 320px;
+    height: 380px;
+}
+p{
+    padding: 15px;
+    margin: auto;
+    color: aliceblue;
+}
+hr{
+    width: 600px;
+    height: auto;
+}
